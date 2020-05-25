@@ -1,0 +1,12 @@
+.friends .friends__title {
+  padding-top: 15px;
+}
+.friends .friends__header,
+.friends .friends__plus {
+  border-bottom: 1px solid #f7f7f7;
+}
+.friends__plus .friends__title,
+.friends .friends__title {
+  font-size: 12px;
+  opacity: 0.6;
+}

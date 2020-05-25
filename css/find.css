@@ -1,0 +1,25 @@
+.find .find__header-list {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #f7f7f7;
+  padding: 0px 15px;
+  padding-bottom: 30px;
+}
+.find .find__header-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.find .header-btn__icon {
+  padding: 20px 0px;
+  font-size: 12px;
+}
+.find .find__title {
+  padding-top: 15px;
+  font-size: 12px;
+  opacity: 0.6;
+}
+
+.find .haeder-btn__title {
+  font-size: 15px;
+}
